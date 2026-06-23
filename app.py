@@ -16,7 +16,7 @@ db = client.test
 collection = db['flask-tute']
 
 
-#mongodb+srv://Sandeep:12345@flask.al3daju.mongodb.net/?appName=Flask
+
 app = Flask(__name__)
 
 @app.route('/')
